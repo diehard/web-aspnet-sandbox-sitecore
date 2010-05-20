@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxSitecore.Cms.Components.PageTypes", "Website\components\PageTypes\SandboxSitecore.Cms.Components.PageTypes.csproj", "{C755B57F-1BC1-4806-AF08-37A24357941A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxSitecore.Cms.Core", "Website\components\Core\SandboxSitecore.Cms.Core.csproj", "{13B1F457-35CD-4462-A69A-3ACF2F90B058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C755B57F-1BC1-4806-AF08-37A24357941A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C755B57F-1BC1-4806-AF08-37A24357941A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C755B57F-1BC1-4806-AF08-37A24357941A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C755B57F-1BC1-4806-AF08-37A24357941A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B1F457-35CD-4462-A69A-3ACF2F90B058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B1F457-35CD-4462-A69A-3ACF2F90B058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B1F457-35CD-4462-A69A-3ACF2F90B058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B1F457-35CD-4462-A69A-3ACF2F90B058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
