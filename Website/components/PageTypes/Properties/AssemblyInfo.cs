@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("SandboxSitecore.Cms.Components.PageTypes")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("SandboxSitecore")]
+[assembly: AssemblyCompany("Sandbox")]
 [assembly: AssemblyProduct("SandboxSitecore.Cms.Components.PageTypes")]
-[assembly: AssemblyCopyright("Copyright © SandboxSitecore 2010")]
+[assembly: AssemblyCopyright("Copyright © Sandbox 2010")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
